@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PVZ_USFX_LAB02.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DE45DC28-9D4C-4675-9615-1E90F8583FC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PVZ_USFX_LAB02.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PVZ_USFX_LAB02Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{265F0A18-0634-4F5D-BA5D-4ED4FD5D110C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PVZ_USFX_LAB02">
+      <UniqueIdentifier>{17373B45-D04B-4DFA-841C-A10944ED1147}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\GeneradorZombies.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\GeneradorZombies.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\GeneradorZombiesTierra.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\GeneradorZombiesTierra.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Girasol.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Girasol.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Jugador.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Jugador.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\MovimientoAleatorio.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\MovimientoAleatorio.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Plant.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Plant.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Planta_Ataque.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Planta_Ataque.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Proyectil.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Proyectil.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.Build.cs">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameModeBase.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameModeBase.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Sol.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Sol.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Spawns.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Spawns.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Zombie.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Zombie.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ZombieComun.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ZombieComun.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ZombieCono.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ZombieCono.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
